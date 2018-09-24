@@ -1,0 +1,26 @@
+0 Business
+1 Health
+2 Technology
+3 Lifestyle
+4 Economy
+5 Social Media
+6 Food
+7 Education
+8 Entertainment
+9 Sports
+10 Transportation
+11 Home
+12 Environment
+13 Computers
+14 Travel
+15 Politics
+16 How To
+17 Animals
+18 Science
+19 Love and Sex
+20 Humor
+21 Geography
+22 History
+23 Human Rights
+24 Gaming
+25 Olympics
