@@ -1,6 +1,6 @@
 # Visually29K: a large-scale curated infographics dataset
 
-
+This code is associated with the following project page: http://visdata.mit.edu/
 
 If you use the data or code in this git repo, please consider citing:
 ``` 
