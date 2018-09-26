@@ -2,6 +2,11 @@
 
 This code is associated with the following project page: http://visdata.mit.edu/
 
+In this repo, we provide metadata and annotations for thousands of infographics, for various computer vision and natural language tasks. 
+We used this data in the reports: https://arxiv.org/pdf/1807.10441 and https://arxiv.org/pdf/1709.09215.
+
+To learn how to use the data: [howto.ipynb](https://github.com/cvzoya/visuallydata/blob/master/howto.ipynb)
+
 If you use the data or code in this git repo, please consider citing:
 ``` 
 @inproceedings{visually2,
@@ -20,7 +25,4 @@ If you use the data or code in this git repo, please consider citing:
 }
 ```
 
-In this repo, we provide metadata and annotations for thousands of infographics, for various computer vision and natural language tasks. 
-We used this data in the reports: https://arxiv.org/pdf/1807.10441 and https://arxiv.org/pdf/1709.09215.
 
-To learn how to use the data: [howto.ipynb](https://github.com/cvzoya/visuallydata/blob/master/howto.ipynb)
