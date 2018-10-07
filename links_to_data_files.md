@@ -1,7 +1,7 @@
 ## Icon dataset (for training and evaluating icon classification): ##
 We provide a dataset of 250K icon images downloaded from Google images to cover [391 different tag classes](https://github.com/cvzoya/visuallydata/blob/master/29kfiles/map_labels_tags.txt).
 * [validation set](https://www.dropbox.com/s/5zrpvh4ryq9bw1f/icons_val.zip?dl=0) (4.5 GB uncompressed)
-* training set, split into 4 parts (each around 4.5-5.5 GB uncompressed, 21 GB total)
+* [training set, split into 4 parts](https://www.dropbox.com/sh/3dva85zh00bezll/AACDbkQzE4izaISIT9yOXoc3a?dl=0) (each around 4.5-5.5 GB uncompressed, 21 GB total)
 
 Note: these are the original downloaded image sets, uncurated (warning: data may be noisy)
 
