@@ -1,3 +1,10 @@
+## Icon dataset (for training and evaluating icon classification): ##
+We provide a dataset of 250K icon images downloaded from Google images to cover [391 different tag classes](https://github.com/cvzoya/visuallydata/blob/master/29kfiles/map_labels_tags.txt).
+* [validation set](https://www.dropbox.com/s/5zrpvh4ryq9bw1f/icons_val.zip?dl=0) (4.5 GB uncompressed)
+* training set, split into 4 parts (each around 4.5-5.5 GB uncompressed, 21 GB total)
+
+Note: these are the original downloaded image sets, uncurated (warning: data may be noisy)
+
 ## Parsed text (OCR from within infographics): ##
 Computed using Google's Cloud Vision API for OCR: https://cloud.google.com/vision/
 * [raw_ocr_output.pickle](https://www.dropbox.com/s/49wwv7xuqr43m9k/raw_ocr_output.pickle?dl=0) (2.2 GB) contains all the extracted text along with the bounding boxes of individual words
